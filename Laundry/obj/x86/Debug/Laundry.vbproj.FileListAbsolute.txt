@@ -1,0 +1,11 @@
+D:\coba vb\Laundry\Laundry\bin\Debug\Laundry.exe
+D:\coba vb\Laundry\Laundry\bin\Debug\Laundry.pdb
+D:\coba vb\Laundry\Laundry\bin\Debug\Laundry.xml
+D:\coba vb\Laundry\Laundry\obj\x86\Debug\Laundry.Resources.resources
+D:\coba vb\Laundry\Laundry\obj\x86\Debug\Laundry.vbproj.GenerateResource.Cache
+D:\coba vb\Laundry\Laundry\obj\x86\Debug\Laundry.exe
+D:\coba vb\Laundry\Laundry\obj\x86\Debug\Laundry.xml
+D:\coba vb\Laundry\Laundry\obj\x86\Debug\Laundry.pdb
+D:\coba vb\Laundry\Laundry\obj\x86\Debug\Laundry.Login.resources
+D:\coba vb\Laundry\Laundry\obj\x86\Debug\Laundry.HalamanUtama.resources
+D:\coba vb\Laundry\Laundry\obj\x86\Debug\Laundry.ModeAdmin.resources
